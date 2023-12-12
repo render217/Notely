@@ -2,7 +2,15 @@
 export default {
     content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                roboto: ["Roboto", "sans-serif"],
+            },
+            colors: {
+                clrSoftPeach: "#E9E9E9",
+                clrSilverSand: "#E5E5E5",
+            },
+        },
     },
     plugins: [],
 };
