@@ -1,4 +1,4 @@
-# Notely Project
+# Notely Project ❤️
 
 Application that allows users to manage their tasks with notes.
 
@@ -16,28 +16,28 @@ Immerse yourself in **Notely**, the embodiment of efficiency and organization. T
 
 ### What you will learn
 
-- **Interactive UI Elements**: Engineer dynamic user interfaces, from dialogs for note manipulation to intuitive navigation components. Experience the art of seamlessly blending form and function.
+-   **Interactive UI Elements**: Engineer dynamic user interfaces, from dialogs for note manipulation to intuitive navigation components. Experience the art of seamlessly blending form and function.
 
-- **Data Management & Persistence**: Delve into techniques of managing user-generated content, ensuring note details are accurately captured, edited, and deleted. Master the art of persisting data across sessions using tools like local storage, and simulating real-world applications.
+-   **Data Management & Persistence**: Delve into techniques of managing user-generated content, ensuring note details are accurately captured, edited, and deleted. Master the art of persisting data across sessions using tools like local storage, and simulating real-world applications.
 
-- **Enhanced User Interaction**: Implement powerful search and filter functionalities. Understand the complexities behind enabling users to rapidly sift through their notes based on various criteria.
+-   **Enhanced User Interaction**: Implement powerful search and filter functionalities. Understand the complexities behind enabling users to rapidly sift through their notes based on various criteria.
 
-- **Front-end Validation and Feedback**: Grasp essential front-end validation methods ensuring user inputs adhere to specific criteria. Witness the importance of direct user feedback and the nuances of designing for various data states.
+-   **Front-end Validation and Feedback**: Grasp essential front-end validation methods ensuring user inputs adhere to specific criteria. Witness the importance of direct user feedback and the nuances of designing for various data states.
 
 ### Requirements
 
-- Add navigation with a placeholder search and an "+ Add" button.
-- Implement a dialog to add a new note with title, description, and category fields. The date should be created under the hood using the current date.
-- Display all created notes with their details and a colored label, sorted by date.
-- Implement a dialog to edit notes.
-- Implement a dialog to delete notes.
-- Allow users to mark notes as completed, moving them to the end and strikethrough text.
-- Implement searching notes by title.
-- Implement filtering notes by category with tabs.
-- Add a "Show only completed notes" checkbox.
-- Visualize empty states with proper illustration and text.
-- Validate the title field as required and the description field as a maximum of 200 characters.
-- Save notes using e.g. local storage to keep persistency on browser refresh.
+-   Add navigation with a placeholder search and an "+ Add" button.
+-   Implement a dialog to add a new note with title, description, and category fields. The date should be created under the hood using the current date.
+-   Display all created notes with their details and a colored label, sorted by date.
+-   Implement a dialog to edit notes.
+-   Implement a dialog to delete notes.
+-   Allow users to mark notes as completed, moving them to the end and strikethrough text.
+-   Implement searching notes by title.
+-   Implement filtering notes by category with tabs.
+-   Add a "Show only completed notes" checkbox.
+-   Visualize empty states with proper illustration and text.
+-   Validate the title field as required and the description field as a maximum of 200 characters.
+-   Save notes using e.g. local storage to keep persistency on browser refresh.
 
 ## Project assets
 
